@@ -112,15 +112,15 @@ Se i miei progetti open source ti sono utili, puoi sostenerne lo sviluppo:
 
 ---
 
-## 🎯 Progetti in Arrivo
+## 🧰 Progetti open source
 
-### Angular 20 Masterclass
-Corso completo da zero a production: Shopping cart, microfrontend, deployment.  
-**Coming:** Q1 2026
+### 🧹 [repo-sweep](https://github.com/narra-antonio/repo-sweep)
+Tiene sincronizzate con i loro remote decine di repository git locali e pulisce i branch cancellati dopo il
+merge, senza mai toccare il lavoro non committato. Windows, macOS e Linux, con esecuzione programmata e report.
 
-### K3S da Zero  
-Kubernetes pratico con K3s: cluster reale, storage persistente, WordPress production.  
-**Coming:** Q2 2026
+### 🐳 [pocketbase-docker](https://github.com/narra-antonio/pocketbase-docker)
+Immagine Docker di PocketBase (non ufficiale) configurabile interamente da variabili d'ambiente.
+Multi-architettura, pronta per la produzione.
 
 ---
 
