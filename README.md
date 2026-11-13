@@ -94,6 +94,16 @@ Attualmente approfondisco:
 
 ---
 
+## ☕ Supporta il mio lavoro
+
+Se i miei progetti open source ti sono utili, puoi sostenerne lo sviluppo:
+
+<a href="https://www.buymeacoffee.com/narra.antonio"><img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=narra.antonio&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G41WWYAM)
+[![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=flat-square&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/narra-antonio)
+
+---
+
 ## 📊 GitHub Stats
 
 ![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=narra-antonio&show_icons=true&theme=tokyonight&hide=contribs)
